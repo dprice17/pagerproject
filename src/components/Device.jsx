@@ -1,5 +1,4 @@
 import React from "react";
-//import pagerSound from "./pagersound";
 
 const DeviceContext = React.createContext();
 

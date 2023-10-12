@@ -1,6 +1,6 @@
 import React from "react";
 import { v4 as uuidv4 } from "uuid";
-import phoneCharacters from "./phonecharacters";
+import phoneCharacters from "./phoneCharacters";
 import { DeviceContext } from "./Device";
 
 export default function Phone() {
